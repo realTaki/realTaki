@@ -30,14 +30,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🐙_GitHub_粉丝-25-FB7299?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🐦_X_粉丝-{X_FOLLOWERS}-00A1D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐦_X_粉丝-5209-00A1D6?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/➡️_关注-12-FF8FAB?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/📦_仓库-83-FB7299?style=for-the-badge"/>
 </div>
 
-<sub align="center">⚠️ X 粉丝数 WebFetch 抓不到（X.com 返回 402），把 <code>{X_FOLLOWERS}</code> 替换成你的真实 X 粉丝数即可</sub>
+<sub align="center">🐦 5,209 个 X 粉丝 — <a href="https://x.com/realTaki42">x.com/realTaki42</a></sub>
 
 <br/>
 
