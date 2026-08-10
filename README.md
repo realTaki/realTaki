@@ -1,246 +1,175 @@
-<!-- ============ B站风格 header ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB7299,50:FF8FAB,100:00A1D6&height=220&section=header&text=realTaki&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%" alt="header"/>
+<!-- ============ Header ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB7299,50:FF8FAB,100:00A1D6&height=220&section=header&text=realTaki&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Coder+%26+Hacker&descSize=18&descAlignY=55" width="100%" alt="header"/>
+</p>
 
-<!-- ============ 个人中心 头部 ============ -->
-<br/>
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="middle">
-        <img src="https://github.com/realTaki.png" width="110" style="border-radius:50%; border:3px solid #FB7299; box-shadow:0 0 14px rgba(251,114,153,.55)" alt="avatar"/>
-      </td>
-      <td valign="middle" style="padding-left:24px">
-        <h2 style="margin:0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">realTaki</h2>
-        <p style="margin:6px 0; color:#888;">
-          UID&nbsp;0 · 💎 <b>LV 6 正式会员</b> · ⭐ <b>Pro</b> · 🏷️ AI · 自动驾驶 · 联邦学习
-        </p>
-        <p style="margin:6px 0;"><b>Coder&amp;Hacker。</b></p>
-        <p style="margin:6px 0; color:#888; font-size:90%;">
-          🙃 哈。 &nbsp;·&nbsp; 📍 Edmonton, Alberta, CA &nbsp;·&nbsp; 🏢 UAlberta
-        </p>
-        <p style="margin:6px 0; color:#888; font-size:90%;">这个人很懒，什么都留下～</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ============ Profile ============ -->
+<p align="center">
+  <a href="https://github.com/realTaki">
+    <img src="https://github.com/realTaki.png" width="120" height="120" style="border-radius:50%; border:3px solid #FB7299; box-shadow:0 0 20px rgba(251,114,153,.35)" alt="avatar"/>
+  </a>
+</p>
 
-<br/>
+<h3 align="center">realTaki</h3>
 
-<!-- ============ 数据条 pill（GitHub + X） ============ -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🐙_GitHub_粉丝-25-FB7299?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🐦_X_粉丝-5209-00A1D6?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/➡️_关注-12-FF8FAB?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📦_仓库-83-FB7299?style=for-the-badge"/>
-</div>
+<p align="center">
+  <b>Coder & Hacker</b>&nbsp;&nbsp;·&nbsp;&nbsp;AI &nbsp;·&nbsp; Autonomous Driving &nbsp;·&nbsp; Federated Learning
+  <br/>
+  <sub>📍 Edmonton, Alberta, Canada &nbsp;·&nbsp; 🏫 University of Alberta</sub>
+  <br/>
+  <sub>🙃 这个人很懒，什么都留下了～</sub>
+</p>
 
-<sub align="center">🐦 5,209 个 X 粉丝 — <a href="https://x.com/realTaki42">x.com/realTaki42</a></sub>
+<p align="center">
+  <a href="https://github.com/realTaki"><img src="https://img.shields.io/github/followers/realTaki?style=flat-square&logo=github&label=Follow&color=FB7299"/></a>
+  <a href="https://x.com/realTaki42"><img src="https://img.shields.io/badge/X-@realTaki42-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="mailto:taki.wang@ualberta.ca"><img src="https://img.shields.io/badge/Email-taki.wang@ualberta.ca-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=realTaki&style=flat-square&color=FB7299" alt="profile views"/>
+</p>
 
 <br/>
 
-<!-- ============ 我的投稿（参与过的开源） ============ -->
-<div align="center">
+<!-- ============ GitHub Stats ============ -->
+<p align="center">
+  <a href="https://github.com/realTaki">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=realTaki&show_icons=true&theme=transparent&hide_border=true&title_color=FB7299&icon_color=00A1D6&text_color=666&ring_color=FB7299&count_private=true" alt="stats"/>
+  </a>
+  <a href="https://github.com/realTaki">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=transparent&hide_border=true&title_color=FB7299&text_color=666&langs_count=8&hide=jupyter%20notebook" alt="languages"/>
+  </a>
+</p>
 
-### 🎬 我的投稿 · 参与的开源项目
+<br/>
 
-<table width="100%" border="0" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
+<!-- ============ Featured Projects ============ -->
+<h3 align="center">📦 Featured Projects</h3>
 
-**⭐ [openai/CLIP](https://github.com/openai/CLIP)**  
-<sub>Contrastive Language-Image Pretraining · 图文对齐预训练模型</sub>  
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-34.2k-FB7299?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-4k-00A1D6?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🚗 [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)**  
-<sub>开放自动驾驶平台 · 百度出品</sub>  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-26.8k-FB7299?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-10k-00A1D6?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 [TsinghuaAI/CPM](https://github.com/TsinghuaAI/CPM)**  
-<sub>清华中文预训练模型初代</sub>  
-<img src="https://img.shields.io/badge/⭐-164-FB7299?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🔐 [FederatedAI/FATE](https://github.com/FederatedAI/FATE)**  
-<sub>工业级联邦学习框架</sub>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-6.1k-FB7299?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-1.6k-00A1D6?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔧 [bazelbuild/bazel](https://github.com/bazelbuild/bazel)**  
-<sub>快 / 可扩展 / 多语言构建系统</sub>  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-25.7k-FB7299?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-4.6k-00A1D6?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**📝 [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)**  
-<sub>基于 GPT-2.0 的初代创作型 AI · 可扩展 / 可进化</sub>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-5.3k-FB7299?style=flat-square"/>
-
-</td>
-</tr>
+<table align="center" style="border-collapse:collapse;border-spacing:0 12px;max-width:720px">
+  <!-- MAGI -->
+  <tr>
+    <td width="48" align="center">🧠</td>
+    <td>
+      <a href="https://github.com/realTaki/MAGI"><b>MAGI</b></a>
+      <br/><sub>持久化模块化 AI Agent 社会运行时 — 让每个 Agent 拥有身份、记忆和工具，随时间共同进化的群体智能系统。ADAM (控制面) + EVA (工作代理) 双角色架构，支持 Telegram 集成。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/MAGI?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
+  <!-- Agent Product Investigation -->
+  <tr>
+    <td width="48" align="center">🗺️</td>
+    <td>
+      <a href="https://github.com/realTaki/Agent-Product-Investigation"><b>Agent-Product-Investigation</b></a>
+      <br/><sub>2026 AI Agent 基础设施全景图 — 6 大模块、12 个子类别、170+ 工具的交互式可视化研究，含 13 家 AI 安全公司融资分析。纯前端，零依赖。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/github/stars/realTaki/Agent-Product-Investigation?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
+  <!-- DevRec -->
+  <tr>
+    <td width="48" align="center">👥</td>
+    <td>
+      <a href="https://github.com/realTaki/DevRec"><b>DevRec</b></a>
+      <br/><sub>Developer Recommendation System — 基于协作过滤与图网络的开发者推荐引擎。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/DevRec?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
+  <!-- FARSEC -->
+  <tr>
+    <td width="48" align="center">🔬</td>
+    <td>
+      <a href="https://github.com/realTaki/FARSEC"><b>FARSEC</b></a>
+      <br/><sub>联邦学习安全与隐私保护研究框架。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/FARSEC?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
+  <!-- Clawboard -->
+  <tr>
+    <td width="48" align="center">⌨️</td>
+    <td>
+      <a href="https://github.com/realTaki/Clawboard"><b>Clawboard</b></a>
+      <br/><sub>跨平台剪贴板增强工具。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/Clawboard?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
+  <!-- FoMON3D -->
+  <tr>
+    <td width="48" align="center">🎮</td>
+    <td>
+      <a href="https://github.com/realTaki/FoMON3D"><b>FoMON3D</b></a>
+      <br/><sub>Foundation Models on 3D — 3D 视觉基础模型探索。</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/FoMON3D?style=flat-square&color=FB7299"/>
+    </td>
+  </tr>
 </table>
 
-</div>
+<br/>
+
+<!-- ============ Open Source Contributions ============ -->
+<h3 align="center">🤝 Open Source Contributions</h3>
+
+<p align="center">
+  <a href="https://github.com/openai/CLIP"><img src="https://img.shields.io/badge/openai/CLIP-Jupyter-F37626?style=for-the-badge&logo=jupyter"/></a>
+  &nbsp;
+  <a href="https://github.com/ApolloAuto/apollo"><img src="https://img.shields.io/badge/ApolloAuto/apollo-C++-00599C?style=for-the-badge&logo=c%2B%2B"/></a>
+  &nbsp;
+  <a href="https://github.com/FederatedAI/FATE"><img src="https://img.shields.io/badge/FederatedAI/FATE-Python-3776AB?style=for-the-badge&logo=python"/></a>
+  &nbsp;
+  <a href="https://github.com/bazelbuild/bazel"><img src="https://img.shields.io/badge/bazelbuild/bazel-Java-ED8B00?style=for-the-badge&logo=openjdk"/></a>
+  &nbsp;
+  <a href="https://github.com/TsinghuaAI/CPM"><img src="https://img.shields.io/badge/TsinghuaAI/CPM-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/></a>
+  &nbsp;
+  <a href="https://github.com/Turing-Project/WriteGPT"><img src="https://img.shields.io/badge/Turing--Project/WriteGPT-GPT--2-412991?style=for-the-badge&logo=openai"/></a>
+</p>
 
 <br/>
 
-<!-- ============ 📦 我的项目（top by stars，来自 GitHub API） ============ -->
-<div align="center">
+<!-- ============ Tech Stack ============ -->
+<h3 align="center">🛠 Tech Stack</h3>
 
-### 📦 我的项目 · top by stars
-
-<table width="100%" border="0" cellpadding="10">
-<tr>
-<td width="33%" valign="top">
-
-**⭐ [DevRec](https://github.com/realTaki/DevRec)**  
-<sub>Python · ⭐ 5</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**⭐ [MAGI](https://github.com/realTaki/MAGI)**  
-<sub>Python · ⭐ 2</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**⭐ [FARSEC](https://github.com/realTaki/FARSEC)**  
-<sub>Python · ⭐ 1</sub>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**🤖 [Agent-Product-Investigation](https://github.com/realTaki/Agent-Product-Investigation)**  
-<sub>JavaScript</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**⌨️ [Clawboard](https://github.com/realTaki/Clawboard)**  
-<sub>TypeScript</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**🎮 [FoMON3D](https://github.com/realTaki/FoMON3D)**  
-<sub>TypeScript</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>💡 数据来源 <a href="https://github.com/realTaki?tab=repositories">github.com/realTaki?tab=repositories</a></sub>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,cpp,java&theme=light" alt="languages"/>
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,githubactions,postgres,redis&theme=light" alt="tools"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- ============ 🏆 成就（GitHub Achievements） ============ -->
-<div align="center">
-
-### 🏆 成就墙
-
-<img src="https://img.shields.io/badge/⚡_Quickdraw-FF8FAB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_YOLO-00A1D6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🦈_Pull_Shark_x2-FB7299?style=for-the-badge"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💎_Pro-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<sub>来自 <a href="https://github.com/realTaki?tab=achievements">GitHub Achievements</a></sub>
-
-</div>
+<!-- ============ Achievements ============ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-FF8FAB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎯_YOLO-00A1D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark_x2-FB7299?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💎_Pro-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 <br/>
 
-<!-- ============ 🏢 组织 ============ -->
-<div align="center">
+<!-- ============ Footer ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1D6,100:FB7299&height=120&section=footer" width="100%" alt="footer"/>
+</p>
 
-### 🏢 所属组织
-
-<img src="https://img.shields.io/badge/GitHub-Momentum--Research-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<!-- ============ 数据中心 ============ -->
-<div align="center">
-
-### 📊 数据中心
-
-<img src="https://github-readme-stats.vercel.app/api?username=realTaki&show_icons=true&theme=radical&hide_border=true&title_color=FB7299&icon_color=00A1D6&text_color=333" alt="stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=realTaki&theme=radical&hide_border=true&ring=FB7299&fire=FF8FAB&currStreakLabel=00A1D6" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=radical&hide_border=true&title_color=FB7299" alt="langs"/>
-
-</div>
-
-<br/>
-
-<!-- ============ 装备栏 / 技术栈（基于自己仓库的真实语言） ============ -->
-<div align="center">
-
-### 🛠 装备栏 · 真实技术栈
-
-[![Skills](https://skillicons.dev/icons?i=python,javascript,typescript,jupyter,git,linux)](https://skillicons.dev)
-
-<sub>🐍 Python (3 repos) · 🟨 JavaScript (2 repos) · 🟦 TypeScript (2 repos) · 📓 Jupyter Notebook · 🐚 Shell</sub>
-
-<sub>📊 基于你 11 个非 fork 仓库统计（GitHub API）</sub>
-
-</div>
-
-<br/>
-
-<!-- ============ 联系方式（带真实邮箱） ============ -->
-<div align="center">
-
-### 📬 联系方式
-
-[<img src="https://img.shields.io/badge/✉️_Email-taki.wang@ualberta.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:taki.wang@ualberta.ca)
-[<img src="https://img.shields.io/badge/Twitter-@realTaki42-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/realTaki42)
-[<img src="https://img.shields.io/badge/GitHub-realTaki-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
-[<img src="https://img.shields.io/badge/Website-realTaki.github.io-00A1D6?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
-
-</div>
-
-<br/>
-
-<!-- ============ footer ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1D6,100:FB7299&height=120&section=footer" width="100%" alt="footer"/>
-
-<div align="center">
-<sub>✨ 本页面由 B站风格 profile README 自动生成 · <a href="https://github.com/realTaki/realTaki/edit/main/README.md">编辑此页</a> ✨</sub>
-</div>
+<p align="center">
+  <sub>© 2026 realTaki · <a href="https://realtaki.github.io">realtaki.github.io</a></sub>
+</p>
