@@ -32,10 +32,10 @@
 <!-- ============ GitHub Stats ============ -->
 <p align="center">
   <a href="https://github.com/realTaki">
-    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=realTaki&show_icons=true&theme=transparent&hide_border=true&title_color=FB7299&icon_color=00A1D6&text_color=666&ring_color=FB7299&count_private=true" alt="stats"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realTaki&show_icons=true&theme=transparent&hide_border=true&title_color=FB7299&icon_color=00A1D6&text_color=666&ring_color=FB7299&count_private=true" alt="stats"/>
   </a>
   <a href="https://github.com/realTaki">
-    <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=transparent&hide_border=true&title_color=FB7299&text_color=666&langs_count=8&hide=jupyter%20notebook" alt="languages"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=transparent&hide_border=true&title_color=FB7299&text_color=666&langs_count=8&hide=jupyter%20notebook" alt="languages"/>
   </a>
 </p>
 
