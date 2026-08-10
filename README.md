@@ -1,6 +1,6 @@
 <!-- ============ Header ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB7299,50:FF8FAB,100:00A1D6&height=220&section=header&text=realTaki&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Coder+%26+Hacker&descSize=18&descAlignY=55" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FB7299,50:FF8FAB,100:00A1D6&amp;height=220&amp;section=header&amp;text=realTaki&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Coder+%26+Hacker&amp;descSize=18&amp;descAlignY=55" width="100%" alt="header"/>
 </p>
 
 <!-- ============ Profile ============ -->
@@ -13,7 +13,7 @@
 <h3 align="center">realTaki</h3>
 
 <p align="center">
-  <b>Coder & Hacker</b>&nbsp;&nbsp;·&nbsp;&nbsp;AI &nbsp;·&nbsp; Autonomous Driving &nbsp;·&nbsp; Federated Learning
+  <b>Coder &amp; Hacker</b>&nbsp;&nbsp;·&nbsp;&nbsp;AI &nbsp;·&nbsp; Autonomous Driving &nbsp;·&nbsp; Federated Learning
   <br/>
   <sub>📍 Edmonton, Alberta, Canada &nbsp;·&nbsp; 🏫 University of Alberta</sub>
   <br/>
@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/realTaki"><img src="https://img.shields.io/github/followers/realTaki?style=flat-square&logo=github&label=Follow&color=FB7299"/></a>
-  <a href="https://x.com/realTaki42"><img src="https://img.shields.io/badge/X-@realTaki42-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:taki.wang@ualberta.ca"><img src="https://img.shields.io/badge/Email-taki.wang@ualberta.ca-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=realTaki&style=flat-square&color=FB7299" alt="profile views"/>
+  <a href="https://github.com/realTaki"><img src="https://img.shields.io/github/followers/realTaki?style=flat-square&amp;logo=github&amp;label=Follow&amp;color=FB7299"/></a>
+  <a href="https://x.com/realTaki42"><img src="https://img.shields.io/badge/X-@realTaki42-1DA1F2?style=flat-square&amp;logo=x&amp;logoColor=white"/></a>
+  <a href="mailto:taki.wang@ualberta.ca"><img src="https://img.shields.io/badge/Email-taki.wang@ualberta.ca-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=realTaki&amp;style=flat-square&amp;color=FB7299" alt="profile views"/>
 </p>
 
 <!-- ============ About ============ -->
@@ -41,17 +41,17 @@
 <!-- ============ GitHub Stats ============ -->
 <p align="center">
   <a href="https://github.com/realTaki">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realTaki&show_icons=true&theme=transparent&hide_border=true&title_color=FB7299&icon_color=00A1D6&text_color=666&ring_color=FB7299&count_private=true" alt="stats"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realTaki&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=FB7299&amp;icon_color=00A1D6&amp;text_color=666&amp;ring_color=FB7299&amp;count_private=true" alt="stats"/>
   </a>
   <a href="https://github.com/realTaki">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=transparent&hide_border=true&title_color=FB7299&text_color=666&langs_count=8&hide=jupyter%20notebook" alt="languages"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realTaki&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=FB7299&amp;text_color=666&amp;langs_count=8&amp;hide=jupyter%20notebook" alt="languages"/>
   </a>
 </p>
 
 <!-- ============ Activity Graph ============ -->
 <p align="center">
   <a href="https://github.com/realTaki">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realTaki&theme=github-compact&hide_border=true&area=true&color=FB7299&line=00A1D6&point=FF8FAB" width="95%" alt="contribution graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realTaki&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;color=FB7299&amp;line=00A1D6&amp;point=FF8FAB" width="95%" alt="contribution graph"/>
   </a>
 </p>
 
@@ -69,8 +69,8 @@
       <br/><sub>Contrastive Language-Image Pretraining — 图文对齐预训练模型，连接视觉与语言的里程碑工作。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/openai/CLIP?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/openai/CLIP?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- Apollo -->
@@ -81,8 +81,8 @@
       <br/><sub>百度开源自动驾驶平台 — 完整感知/规划/控制栈，全球最大的自动驾驶开源项目之一。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/ApolloAuto/apollo?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/ApolloAuto/apollo?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- Bazel -->
@@ -93,8 +93,8 @@
       <br/><sub>Google 开源构建系统 — 快速、可扩展、多语言，支撑 Google 整个 monorepo。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/bazelbuild/bazel?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/bazelbuild/bazel?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- FATE -->
@@ -105,8 +105,8 @@
       <br/><sub>工业级联邦学习框架 — 安全多方计算，数据不出本地即可联合建模。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/FederatedAI/FATE?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/FederatedAI/FATE?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- CPM -->
@@ -117,8 +117,8 @@
       <br/><sub>清华中文预训练模型 — 知识增强的大规模中文语言模型。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/TsinghuaAI/CPM?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/TsinghuaAI/CPM?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- WriteGPT -->
@@ -129,8 +129,8 @@
       <br/><sub>基于 GPT-2 的初代创作型 AI — 可扩展、可进化的文本生成框架。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/Turing-Project/WriteGPT?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Turing-Project/WriteGPT?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
 </table>
@@ -149,8 +149,8 @@
       <br/><sub>持久化模块化 AI Agent 社会运行时 — 让每个 Agent 拥有身份、记忆和工具，随时间共同进化的群体智能系统。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/realTaki/MAGI?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/MAGI?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- Agent Product Investigation -->
@@ -161,8 +161,8 @@
       <br/><sub>2026 AI Agent 基础设施全景图 — 170+ 工具的交互式可视化研究。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/github/stars/realTaki/Agent-Product-Investigation?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
+      <img src="https://img.shields.io/github/stars/realTaki/Agent-Product-Investigation?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- DevRec -->
@@ -173,8 +173,8 @@
       <br/><sub>Developer Recommendation — 协作过滤与图网络的开发者推荐引擎。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/realTaki/DevRec?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/DevRec?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- FARSEC -->
@@ -185,8 +185,8 @@
       <br/><sub>联邦学习安全与隐私保护研究。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/realTaki/FARSEC?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/FARSEC?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- Clawboard -->
@@ -197,8 +197,8 @@
       <br/><sub>跨平台剪贴板增强工具。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/realTaki/Clawboard?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/Clawboard?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
   <!-- FoMON3D -->
@@ -209,8 +209,8 @@
       <br/><sub>Foundation Models on 3D — 3D 视觉基础模型探索。</sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/realTaki/FoMON3D?style=flat-square&color=FB7299"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/realTaki/FoMON3D?style=flat-square&amp;color=FB7299"/>
     </td>
   </tr>
 </table>
@@ -222,7 +222,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,react,vite,tailwind,fastapi,docker,kubernetes,postgres,linux,git&theme=light" alt="tech stack"/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,vite,tailwind,fastapi,docker,kubernetes,postgres,linux,git&amp;theme=light" alt="tech stack"/>
   </a>
 </p>
 
@@ -235,17 +235,17 @@
 <!-- ============ Contribution Streak ============ -->
 <p align="center">
   <a href="https://github.com/realTaki">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realTaki&theme=transparent&hide_border=true&ring=FB7299&fire=FF8FAB&currStreakLabel=00A1D6&sideLabels=666&dates=999" alt="streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realTaki&amp;theme=transparent&amp;hide_border=true&amp;ring=FB7299&amp;fire=FF8FAB&amp;currStreakLabel=00A1D6&amp;sideLabels=666&amp;dates=999" alt="streak"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/💎_Pro-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💎_Pro-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
 </p>
 
 <br/>
 
 <!-- ============ Footer ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1D6,100:FB7299&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00A1D6,100:FB7299&amp;height=120&amp;section=footer" width="100%" alt="footer"/>
 </p>
 
 <p align="center">
