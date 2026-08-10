@@ -206,12 +206,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,rust,cpp,java&theme=light" alt="languages"/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,vite,tailwind,fastapi,docker,kubernetes,postgres,linux,git&theme=light" alt="tech stack"/>
   </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,kubernetes,linux,git,githubactions,postgres,redis&theme=light" alt="tools"/>
-  </a>
+</p>
+
+<p align="center">
+  <sub>Python · TypeScript · React 19 · FastAPI · SQLAlchemy · PostgreSQL + pgvector · Docker · Kubernetes · Vite · Tailwind CSS</sub>
 </p>
 
 <br/>
