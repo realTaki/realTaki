@@ -12,9 +12,13 @@
       <td valign="middle" style="padding-left:24px">
         <h2 style="margin:0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">realTaki</h2>
         <p style="margin:6px 0; color:#888;">
-          UID&nbsp;0 · 💎 <b>LV 1 新人</b> · 🏷️ GitHub 居民
+          UID&nbsp;0 · 💎 <b>LV 6 正式会员</b> · ⭐ <b>Pro</b> · 🏷️ AI · 自动驾驶 · 联邦学习
         </p>
-        <p style="margin:6px 0;">这个人很懒，什么都没留下～</p>
+        <p style="margin:6px 0;"><b>Coder&amp;Hacker。</b></p>
+        <p style="margin:6px 0; color:#888; font-size:90%;">
+          🙃 哈。 &nbsp;·&nbsp; 📍 Edmonton, Alberta, CA &nbsp;·&nbsp; 🏢 UAlberta
+        </p>
+        <p style="margin:6px 0; color:#888; font-size:90%;">这个人很懒，什么都留下～</p>
       </td>
     </tr>
   </table>
@@ -22,42 +26,111 @@
 
 <br/>
 
-<!-- ============ 数据条 pill ============ -->
+<!-- ============ 数据条 pill（真实数据） ============ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/👥_粉丝-0-FB7299?style=for-the-badge&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/👥_粉丝-25-FB7299?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/➡️_关注-0-00A1D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/➡️_关注-12-00A1D6?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/👍_获赞-0-FF8FAB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦_仓库-83-FF8FAB?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐_收到_star-21-FB7299?style=for-the-badge"/>
 </div>
 
 <br/>
 
-<!-- ============ 我的投稿 ============ -->
+<!-- ============ 我的投稿（参与过的开源） ============ -->
 <div align="center">
 
-### 🎬 我的投稿
+### 🎬 我的投稿 · 参与的开源项目
 
 <table width="100%" border="0" cellpadding="10">
 <tr>
-<td width="50%" valign="top" style="border:1px solid #eee; border-radius:10px;">
+<td width="50%" valign="top">
 
-**🔭 [Agent-Product-Investigation](https://github.com/realTaki/Agent-Product-Investigation)**  
-<sub>Agent 产品调研 · 自动跑通调研流程</sub>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/⭐-0-FB7299?style=flat-square"/>
+**⭐ [openai/CLIP](https://github.com/openai/CLIP)**  
+<sub>Contrastive Language-Image Pretraining · 图文对齐预训练模型</sub>  
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=fff"/>
+<img src="https://img.shields.io/badge/⭐-34.2k-FB7299?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-4k-00A1D6?style=flat-square"/>
 
 </td>
-<td width="50%" valign="top" style="border:1px solid #eee; border-radius:10px;">
+<td width="50%" valign="top">
 
-**🌱 [realTaki](https://github.com/realTaki/realTaki)**  
-<sub>这个 profile README 仓库本身</sub>  
-<img src="https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown"/>
-<img src="https://img.shields.io/badge/⭐-0-00A1D6?style=flat-square"/>
+**🚗 [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)**  
+<sub>开放自动驾驶平台 · 百度出品</sub>  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff"/>
+<img src="https://img.shields.io/badge/⭐-26.8k-FB7299?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-10k-00A1D6?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [TsinghuaAI/CPM](https://github.com/TsinghuaAI/CPM)**  
+<sub>清华中文预训练模型初代</sub>  
+<img src="https://img.shields.io/badge/⭐-164-FB7299?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 [FederatedAI/FATE](https://github.com/FederatedAI/FATE)**  
+<sub>工业级联邦学习框架</sub>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/⭐-6.1k-FB7299?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-1.6k-00A1D6?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔧 [bazelbuild/bazel](https://github.com/bazelbuild/bazel)**  
+<sub>快 / 可扩展 / 多语言构建系统</sub>  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff"/>
+<img src="https://img.shields.io/badge/⭐-25.7k-FB7299?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-4.6k-00A1D6?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+**📝 [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT)**  
+<sub>基于 GPT-2.0 的初代创作型 AI · 可扩展 / 可进化</sub>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/⭐-5.3k-FB7299?style=flat-square"/>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- ============ 🏆 成就（GitHub Achievements） ============ -->
+<div align="center">
+
+### 🏆 成就墙
+
+<img src="https://img.shields.io/badge/⚡_Quickdraw-FF8FAB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_YOLO-00A1D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🦈_Pull_Shark_x2-FB7299?style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/💎_Pro-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<sub>来自 <a href="https://github.com/realTaki?tab=achievements">GitHub Achievements</a></sub>
+
+</div>
+
+<br/>
+
+<!-- ============ 🏢 组织 ============ -->
+<div align="center">
+
+### 🏢 所属组织
+
+<img src="https://img.shields.io/badge/GitHub-Momentum--Research-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -80,12 +153,14 @@
 
 <br/>
 
-<!-- ============ 装备栏 / 技术栈 ============ -->
+<!-- ============ 装备栏 / 技术栈（基于实际仓库语言） ============ -->
 <div align="center">
 
 ### 🛠 装备栏
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,react,go,rust,docker,linux,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,cpp,java,jupyter,git,linux)](https://skillicons.dev)
+
+<sub>🐍 Python · ⚙️ C++ · ☕ Java · 📓 Jupyter Notebook · 🐧 Linux</sub>
 
 </div>
 
@@ -96,10 +171,9 @@
 
 ### 📬 联系方式
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-realTaki%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-<sub>📝 替换成你自己的邮箱即可生效</sub>
+[<img src="https://img.shields.io/badge/Twitter-@realTaki42-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/realTaki42)
+[<img src="https://img.shields.io/badge/GitHub-realTaki-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
+[<img src="https://img.shields.io/badge/Website-realTaki.github.io-00A1D6?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
 
 </div>
 
