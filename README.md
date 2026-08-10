@@ -27,6 +27,15 @@
   <img src="https://komarev.com/ghpvc/?username=realTaki&style=flat-square&color=FB7299" alt="profile views"/>
 </p>
 
+<!-- ============ About ============ -->
+<table align="center" style="max-width:640px;border-collapse:collapse"><tr><td align="center">
+<sub>
+🧠 &nbsp;在 UAlberta 折腾 AI Agent 系统、联邦学习和自动驾驶。<br/>
+正在构建 <a href="https://github.com/realTaki/MAGI">MAGI</a>——让每个 Agent 拥有记忆、身份和工具的持久化群体智能运行时。<br/>
+相信 <b>Code is Craft · Hacking is Art</b>。
+</sub>
+</td></tr></table>
+
 <br/>
 
 <!-- ============ GitHub Stats ============ -->
@@ -36,6 +45,13 @@
   </a>
   <a href="https://github.com/realTaki">
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realTaki&layout=compact&theme=transparent&hide_border=true&title_color=FB7299&text_color=666&langs_count=8&hide=jupyter%20notebook" alt="languages"/>
+  </a>
+</p>
+
+<!-- ============ Activity Graph ============ -->
+<p align="center">
+  <a href="https://github.com/realTaki">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realTaki&theme=github-compact&hide_border=true&area=true&color=FB7299&line=00A1D6&point=FF8FAB" width="95%" alt="contribution graph"/>
   </a>
 </p>
 
@@ -216,11 +232,12 @@
 
 <br/>
 
-<!-- ============ Achievements ============ -->
+<!-- ============ Contribution Streak ============ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_Quickdraw-FF8FAB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🎯_YOLO-00A1D6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark_x2-FB7299?style=flat-square"/>
+  <a href="https://github.com/realTaki">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realTaki&theme=transparent&hide_border=true&ring=FB7299&fire=FF8FAB&currStreakLabel=00A1D6&sideLabels=666&dates=999" alt="streak"/>
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/💎_Pro-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
