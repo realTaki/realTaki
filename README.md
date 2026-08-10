@@ -1,6 +1,6 @@
 <!-- ============ Header ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FB7299,50:FF8FAB,100:00A1D6&amp;height=220&amp;section=header&amp;text=realTaki&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Coder+%26+Hacker&amp;descSize=18&amp;descAlignY=55" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FB7299,50:FF8FAB,100:00A1D6&amp;height=220&amp;section=header&amp;text=realTaki&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Coder%20%2F%20Hacker&amp;descSize=18&amp;descAlignY=55" width="100%" alt="header"/>
 </p>
 
 <!-- ============ Profile ============ -->
