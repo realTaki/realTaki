@@ -26,16 +26,18 @@
 
 <br/>
 
-<!-- ============ 数据条 pill（真实数据） ============ -->
+<!-- ============ 数据条 pill（GitHub + X） ============ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/👥_粉丝-25-FB7299?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub_粉丝-25-FB7299?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/➡️_关注-12-00A1D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐦_X_粉丝-{X_FOLLOWERS}-00A1D6?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/📦_仓库-83-FF8FAB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/➡️_关注-12-FF8FAB?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⭐_收到_star-21-FB7299?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📦_仓库-83-FB7299?style=for-the-badge"/>
 </div>
+
+<sub align="center">⚠️ X 粉丝数 WebFetch 抓不到（X.com 返回 402），把 <code>{X_FOLLOWERS}</code> 替换成你的真实 X 粉丝数即可</sub>
 
 <br/>
 
@@ -108,6 +110,60 @@
 
 <br/>
 
+<!-- ============ 📦 我的项目（top by stars，来自 GitHub API） ============ -->
+<div align="center">
+
+### 📦 我的项目 · top by stars
+
+<table width="100%" border="0" cellpadding="10">
+<tr>
+<td width="33%" valign="top">
+
+**⭐ [DevRec](https://github.com/realTaki/DevRec)**  
+<sub>Python · ⭐ 5</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**⭐ [MAGI](https://github.com/realTaki/MAGI)**  
+<sub>Python · ⭐ 2</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**⭐ [FARSEC](https://github.com/realTaki/FARSEC)**  
+<sub>Python · ⭐ 1</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🤖 [Agent-Product-Investigation](https://github.com/realTaki/Agent-Product-Investigation)**  
+<sub>JavaScript</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**⌨️ [Clawboard](https://github.com/realTaki/Clawboard)**  
+<sub>TypeScript</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🎮 [FoMON3D](https://github.com/realTaki/FoMON3D)**  
+<sub>TypeScript</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>💡 数据来源 <a href="https://github.com/realTaki?tab=repositories">github.com/realTaki?tab=repositories</a></sub>
+
+</div>
+
+<br/>
+
 <!-- ============ 🏆 成就（GitHub Achievements） ============ -->
 <div align="center">
 
@@ -153,24 +209,27 @@
 
 <br/>
 
-<!-- ============ 装备栏 / 技术栈（基于实际仓库语言） ============ -->
+<!-- ============ 装备栏 / 技术栈（基于自己仓库的真实语言） ============ -->
 <div align="center">
 
-### 🛠 装备栏
+### 🛠 装备栏 · 真实技术栈
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,java,jupyter,git,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,javascript,typescript,jupyter,git,linux)](https://skillicons.dev)
 
-<sub>🐍 Python · ⚙️ C++ · ☕ Java · 📓 Jupyter Notebook · 🐧 Linux</sub>
+<sub>🐍 Python (3 repos) · 🟨 JavaScript (2 repos) · 🟦 TypeScript (2 repos) · 📓 Jupyter Notebook · 🐚 Shell</sub>
+
+<sub>📊 基于你 11 个非 fork 仓库统计（GitHub API）</sub>
 
 </div>
 
 <br/>
 
-<!-- ============ 联系方式 ============ -->
+<!-- ============ 联系方式（带真实邮箱） ============ -->
 <div align="center">
 
 ### 📬 联系方式
 
+[<img src="https://img.shields.io/badge/✉️_Email-taki.wang@ualberta.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:taki.wang@ualberta.ca)
 [<img src="https://img.shields.io/badge/Twitter-@realTaki42-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/realTaki42)
 [<img src="https://img.shields.io/badge/GitHub-realTaki-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
 [<img src="https://img.shields.io/badge/Website-realTaki.github.io-00A1D6?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/realTaki)
